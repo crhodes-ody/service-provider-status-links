@@ -18,13 +18,12 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 | Digital Ocean         | https://status.digitalocean.com/                | https://status.digitalocean.com/history.atom, https://status.digitalocean.com/history.rss   | Yes                  | https://twitter.com/dostatus     |
 | AWS                   | https://health.aws.amazon.com/health/status     | Overall - http://status.aws.amazon.com/rss/all.rss, Status page has individual feeds too.   |                      |                                  |
 | Alibaba Cloud         | https://status.alibabacloud.com/                |                                                                                             |                      |                                  |
-| IBM Cloud             | https://cloud.ibm.com/status                    | https://cloud.ibm.com/status/api/notifications/feed.rss                                     |                      |
+| IBM Cloud             | https://cloud.ibm.com/status                    | https://cloud.ibm.com/status/api/notifications/feed.rss                                     |
 | Salesforce            | https://status.salesforce.com/                  |                                                                                             |                      |                                  |
 | Akamai                | https://www.akamaistatus.com/                   | https://www.akamaistatus.com/history.atom, https://www.akamaistatus.com/history.rss         | Yes                  |                                  |
-| Fastly                | https://www.fastlystatus.com/                   | https://www.fastlystatus.com/rss/                                                           | Yes                  |                                  |
+| Fastly                | https://www.fastlystatus.com/                   | https://www.fastlystatus.com/rss/                                                           | Yes                  |
 | Cloudflare            | https://www.cloudflarestatus.com/               | https://www.cloudflarestatus.com/history.atom, https://www.cloudflarestatus.com/history.rss |                      |                                  |
 | Heroku                | https://status.heroku.com/                      |                                                                                             | Yes                  | https://twitter.com/herokustatus |
-|                       |                                                 |                                                                                             |                      |                                  |
 
 ### Monitoring and Alerting
 | Service                                                  | Status Page                                | RSS Feed                                                                                                      | Direct Notifications | Twitter for Status |
@@ -36,8 +35,6 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 | Dynatrace                                                | https://dynatrace.status.io/               | https://dynatrace.status.io/pages/546d8cb6af8407b6730000cb/rss                                                | Yes                  |                    |
 | New Relic                                                | https://status.newrelic.com/               | https://status.newrelic.com/history.atom, https://status.newrelic.com/history.rss                             | Yes                  |                    |
 | Opsgenie                                                 | https://opsgenie.status.atlassian.com/     | https://opsgenie.status.atlassian.com/history.atom, https://opsgenie.status.atlassian.com/history.rss         | Yes                  |                    |
-
-
 
 ### Communication and Collaboration
 | Service              | Status Page                                                                           | RSS Feed                                                                            | Direct Notifications | Twitter for Status                |
@@ -63,7 +60,6 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 | Circle CI                  | https://status.circleci.com/    | https://status.circleci.com/history.atom, https://status.circleci.com/history.rss       | Yes                  | https://twitter.com/CircleCIstatus |
 | Codefresh                  | https://status.codefresh.io/    | https://status.codefresh.io/history.atom, https://status.codefresh.io/history.rss       | Yes                  |                                    |
 
-
 ### Other
 | Service                  | Status Page                                      | RSS Feed                                                                            | Direct Notifications | Twitter for Status                  |
 |--------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------|----------------------|-------------------------------------|
@@ -76,4 +72,3 @@ Twitter for Status -> Some services have a dedicated Twitter only for status upd
 | OpenAI                   | https://status.openai.com/                       | https://status.openai.com/history.atom, https://status.openai.com/history.rss       | Yes                  |                                     |
 | Okta                     | https://status.okta.com/                         | https://feeds.feedburner.com/OktaTrustRSS                                           |                      |                                     |
 | HubSpot                  | https://status.hubspot.com/                      | https://status.hubspot.com/history.atom, https://status.hubspot.com/history.rss     |                      |                                     |
-
