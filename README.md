@@ -1,12 +1,13 @@
-# Service Provider Status Links
+# Service Provider Status URLs
 
-This README provides essential links for checking the status of different service providers. Use the links below to see real-time status information.
+| Service Provider | Status | Last Updated |
+|------------------|--------|--------------|
+| Provider A      | Active | 2026-02-19   |
+| Provider B      | Down   | 2026-02-19   |
+| Provider C      | Active | 2026-02-19   |
+| Provider D      | Active | 2026-02-19   |
+| Provider E      | Active | 2026-02-19   |
 
-| Service Provider         | Status Page             |
-|-------------------------|-------------------------|
-| Provider A              | [Status A](https://status-a.example.com) |
-| Provider B              | [Status B](https://status-b.example.com) |
-| Provider C              | [Status C](https://status-c.example.com) |
-| Provider D              | [Status D](https://status-d.example.com) |
+## Additional Information
 
-Feel free to reach out if you encounter any issues with the provided links.
+For more details about service provider statuses, visit their official websites.
