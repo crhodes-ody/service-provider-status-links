@@ -1,8 +1,12 @@
-# True up repository
+# Service Provider Status Links
 
-This PR trues up the repository by adding proper version control hygiene and cleaning up formatting issues. Changes include:
+This README provides essential links for checking the status of different service providers. Use the links below to see real-time status information.
 
-1) Added .gitignore file to prevent IDE and OS-specific files from being committed,
-2) Cleaned up README.md formatting by removing empty table rows and excessive blank lines.
+| Service Provider         | Status Page             |
+|-------------------------|-------------------------|
+| Provider A              | [Status A](https://status-a.example.com) |
+| Provider B              | [Status B](https://status-b.example.com) |
+| Provider C              | [Status C](https://status-c.example.com) |
+| Provider D              | [Status D](https://status-d.example.com) |
 
-Note: The existing .idea/ directory should be manually removed after merging this PR using: `git rm -r .idea/ && git commit -m 'Remove IDE configuration files' && git push`
+Feel free to reach out if you encounter any issues with the provided links.
